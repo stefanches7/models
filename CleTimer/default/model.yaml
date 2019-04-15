@@ -11,7 +11,7 @@ default_dataloader: .
 info:
     authors:
         - name: Leohnard Wachutka
-          github: wachutka
+          github: kTakumo
           email: wachutka@in.tum.de
         - name: Stefan Dvoretskii
           github: stefanches7
